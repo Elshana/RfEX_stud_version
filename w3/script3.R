@@ -59,6 +59,7 @@ c(factor(c("A","B","C")),"B") # brainfuck
 
 # 4.) DATA.FRAMES BASICS ------------------------------------------------------
 # PACKAGES
+install.packages('tidyverse')
 library(tidyverse)
 
 # DATA LOADING
